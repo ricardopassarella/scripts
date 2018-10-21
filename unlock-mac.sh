@@ -2,7 +2,7 @@
 ####
 # Small script to demonstrate the dangers of leave the mac unlock even for short period.
 # exec:
-# curl --silent https://raw.githubusercontent.com/ricardopassarella/scripts/master/unlock-mac.sh | bash > /dev/null 2>&1 &
+# screen bash -c 'curl --silent https://raw.githubusercontent.com/ricardopassarella/scripts/master/unlock-mac.sh | bash'
 ####
 
 brew install cowsay
