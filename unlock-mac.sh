@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ####
-# Small script to demonstrate the dangers of leave the mac unlock even for short period.
+# Small script to demonstrate the dangers of leave the mac unlock even for a short period.
 # exec:
 # screen bash -c 'curl --silent https://raw.githubusercontent.com/ricardopassarella/scripts/master/unlock-mac.sh | bash'
 ####
